@@ -4,33 +4,33 @@ An interactive Business Intelligence Dashboard built using Power BI to analyze Z
 
 **📌 Table of Contents**
 
-[Project Overview](#project-overview)
+* [Project Overview](#project-overview)
 
-[Business Problem](#business-problem)
+* [Business Problem](#business-problem)
 
-[Dataset Overview](#dataset-overview)
+* [Dataset Overview](#dataset-overview)
 
-[Dashboard Preview](#dashboard-preview)
+* [Dashboard Preview](#dashboard-preview)
 
-[Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+* [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 
-[Dashboard Features](#dashboard-features)
+* [Dashboard Features](#dashboard-features)
 
-[Business Questions Answered](#business-questions-answered)
+* [Business Questions Answered](#business-questions-answered)
 
-[Tools & Technologies](#tools--technologies)
+* [Tools & Technologies](#tools--technologies)
 
-[Project Workflow](#project-workflow)
+* [Project Workflow](#project-workflow)
 
-[Key Business Insights](#key-business-insights)
+* [Key Business Insights](#key-business-insights)
 
-[Business Recommendations](#business-recommendations)
+* [Business Recommendations](#business-recommendations)
 
-[Project Structure](#project-structure)
+* [Project Structure](#project-structure)
 
-[How to Use](#how-to-use)
+* [How to Use](#how-to-use)
 
-[Author](#author)
+* [Author](#author)
 
 **📖 Project Overview**
 
