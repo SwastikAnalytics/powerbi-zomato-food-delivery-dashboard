@@ -127,5 +127,5 @@ zomato-food-delivery-dashboard/
 **📸 Dashboard Preview**
 
 <a href="screenshots/dashboard.png">
-  <img src="screenshots/dashboard.png" width="1000">
+  <img src="image/Dashboard.png" width="1000">
 </a>
