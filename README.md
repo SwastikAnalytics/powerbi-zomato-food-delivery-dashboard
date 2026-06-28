@@ -110,4 +110,22 @@ zomato-food-delivery-dashboard/
 | |-Food Delivery                      # Power Bi
 |
 
+```
+
 **📊 Key Performance Indicators (KPIs)**
+
+* Total Quantity-15K
+
+* Total Transactions-3K
+
+* Average Quantity-5.50
+
+* Delivery Success Rate-94.25%
+
+* Cancellation Rate-5.75%
+
+**📸 Dashboard Preview**
+
+<a href="screenshots/dashboard.png">
+  <img src="screenshots/dashboard.png" width="1000">
+</a>
