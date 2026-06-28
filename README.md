@@ -96,16 +96,16 @@ zomato-food-delivery-dashboard/
 |-Food_Delivery_Case study_Report
 |
 |-Sample data/
-| |-Sales data
-|      |-January_Sales_2023
-|      |-February_Sales_2023
-|      |-March_Sales_2023
-|      |-April_Sales_2023
-|  |-Zomato data
+| |-Sales data                         # Excel
+|      |-January_Sales_2023.xlsx
+|      |-February_Sales_2023.xlsx
+|      |-March_Sales_2023.xlsx
+|      |-April_Sales_2023.xlsx
+|  |-Zomato data                       # Excel
 |
 |-image/
 | |-Dashboard
 |
 |-output/
-| |-Food Delivery                       # Power Bi
+| |-Food Delivery                      # Power Bi
 |
