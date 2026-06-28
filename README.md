@@ -112,6 +112,15 @@ zomato-food-delivery-dashboard/
 
 ```
 
+
+
+**📸 Dashboard Preview**
+
+<a href="screenshots/dashboard.png">
+  <img src="image/Dashboard.png" width="1000">
+</a>
+
+
 **📊 Key Performance Indicators (KPIs)**
 
 * Total Quantity-15K
@@ -124,8 +133,106 @@ zomato-food-delivery-dashboard/
 
 * Cancellation Rate-5.75%
 
-**📸 Dashboard Preview**
+**🚀 Dashboard Features**
 
-<a href="screenshots/dashboard.png">
-  <img src="image/Dashboard.png" width="1000">
-</a>
+* Executive KPI Cards
+  
+* Monthly Order Trend Analysis
+  
+* Food-wise Quantity Analysis
+  
+* Customer Membership Analysis
+  
+* Payment Method Distribution
+  
+* Delivery Status Monitoring
+  
+* Interactive Filters (Month, Member Type, Restaurant Type, Payment Method)
+  
+* Business Performance Dashboard
+  
+**❓ Business Questions Answered**
+
+* Which food items are most popular?
+
+* Which products have the lowest demand?
+
+* How do monthly orders change over time?
+
+* Which payment method is preferred by customers?
+
+* What is the delivery success rate?
+
+* Which customer segment contributes more orders?
+
+* What is the average quantity ordered per transaction?
+
+* How can operational efficiency be improved?
+
+ **⚙️ Project Workflow**
+ 
+* Data Collection
+
+* Data Cleaning using Power Query
+
+* Data Validation
+
+* Data Modeling
+
+* KPI Creation using DAX
+
+* Dashboard Development
+
+* Business Insight Generation
+
+* Strategic Recommendations
+
+**📈 Key Business Insights**
+
+* Samosa is the highest-selling food item.
+  
+* Gold Members place more orders than Regular Members.
+
+* UPI is the most preferred payment method.
+
+* Delivery success rate exceeds 94%, indicating strong operational efficiency.
+
+* Monthly order trends reveal changing customer demand patterns.
+
+* Low-selling food items present opportunities for targeted promotional campaigns.
+
+**💡 Business Recommendations**
+
+* Increase inventory for high-demand food items.
+
+* Promote low-selling menu items through discounts and combo offers.
+
+* Expand Gold Membership benefits to improve customer retention.
+
+* Reduce order cancellations by improving delivery operations.
+
+* Encourage digital payments through cashback campaigns.
+
+* Monitor monthly demand trends to optimize inventory and staffing.
+
+ **▶️ How to Use**
+ 
+* Clone this repository.
+
+* Download the .pbix file.
+
+* Open the file using Microsoft Power BI Desktop.
+
+* Interact with slicers and visuals to explore business insights.
+
+**👨‍💻 Author**
+
+Swastik Kumar
+
+Data Analyst | Power BI | SQL | Excel | Python
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+
+
+
