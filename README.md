@@ -101,3 +101,11 @@ zomato-food-delivery-dashboard/
 |      |-February_Sales_2023
 |      |-March_Sales_2023
 |      |-April_Sales_2023
+|  |-Zomato data
+|
+|-image/
+| |-Dashboard
+|
+|-output/
+| |-Food Delivery                       # Power Bi
+|
